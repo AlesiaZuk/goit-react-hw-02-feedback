@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-02-feedback"]=this["webpackJsonpgoit-react-hw-02-feedback"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),a=c.n(i),o=(c(8),c(0));var s=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("h1",{children:"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a"})})};a.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(s,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.0e07351b.chunk.js.map
